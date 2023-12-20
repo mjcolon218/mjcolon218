@@ -4,17 +4,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjcolon218" alt="mjcolon218" /></a> </p>
 
-- 🔭 I’m currently working on [Machine Learning](https://github.com/mjcolon218/ML_AutoMobile_Price_Prediction)
+- 🔭 I’m currently working on [All things Data related](https://github.com/mjcolon218/ML_AutoMobile_Price_Prediction)
 
 - 🌱 I’m currently learning **The Cloud**
 
-- 👯 I’m looking to collaborate on **Data Analytics**
+- 👯 I’m looking to collaborate on **Machine Learning**
 
 - 🤝 I’m looking for help with **Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mjcolon218?tab=repositories](https://github.com/mjcolon218?tab=repositories)
 
-- 💬 Ask me about **Python, SQL, Tableau**
+- 💬 Ask me about **Python,SQL,Tableau**
 
 - 📫 How to reach me **mjcolon218@gmail.com**
 
