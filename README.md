@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moe</h1>
-<h3 align="center">A lifelong learner who's passionate about all things Data. Sort of !</h3>
+<h3 align="center">A lifelong learner who's passionate about all things Data. Sometimes !</h3>
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/qo0-DG6XePMAAAAM/laptop-slam.gif)](https://media.tenor.com/qo0-DG6XePMAAAAM/laptop-slam.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjcolon218" alt="mjcolon218" /></a> </p>
