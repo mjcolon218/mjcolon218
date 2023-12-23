@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Data Engineering**
 
-- 👨‍💻 All of my projects are available at [https://mjcolon218.github.io/Landing-Page/]
+- 👨‍💻 All of my projects are available at https://mjcolon218.github.io/Landing-Page/
 
 - 💬 Ask me about **Python,SQL,Tableau**
 
